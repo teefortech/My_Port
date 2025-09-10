@@ -1,8 +1,10 @@
+---
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+---
 
-# 🌌 Emmy Ton — Data Scientist Portfolio  
+# 🌌 Data Scientist Portfolio 
 
 ![Status](https://img.shields.io/badge/Status-Active-2ecc71?style=for-the-badge&logo=github&logoColor=white)  
 ![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20R%20%7C%20SQL-3498db?style=for-the-badge)  
@@ -62,4 +64,5 @@ Welcome to my **Data Scientist portfolio** repository! This space highlights my 
 ## 📬 Connect With Me
  
 🌐 **Portfolio Website:** [Your Portfolio URL] 💼 **LinkedIn:** [Your LinkedIn URL] 🐙 **GitHub:** [Your GitHub URL] ✉️ **Email:** [Your Email Address]
+
 
