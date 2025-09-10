@@ -1,32 +1,66 @@
+--- 
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+---
 
+# 🌌 Emmy Ton — Data Scientist Portfolio  
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+![Status](https://img.shields.io/badge/Status-Active-2ecc71?style=for-the-badge&logo=github&logoColor=white)  
+![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20R%20%7C%20SQL-3498db?style=for-the-badge)  
+![License](https://img.shields.io/badge/License-MIT-95a5a6?style=for-the-badge)  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Welcome to my **Data Scientist portfolio** repository! This space highlights my expertise in **Data Analytics**, **Operations Research**, and **Machine Learning**, showcasing projects that turn raw data into actionable insights.  
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 📖 Overview  
+<details>  
+<summary>Click to expand</summary>  
 
+- 🔮 **Predictive Modeling & Machine Learning** – Designing accurate and interpretable models.  
+- 📈 **Time Series Forecasting** – Automating industry-specific forecasts.  
+- 🧮 **Optimization & Operations Research** – Delivering efficient, data-driven solutions.  
+- 📊 **Data Storytelling & Dashboards** – Creating compelling narratives for stakeholders.  
 
-Credits:
+</details>  
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 🛠️ Tools & Technologies  
+<details>  
+<summary>Click to expand</summary>  
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+| Category        | Tools/Technologies                    |  
+|-----------------|--------------------------------------|  
+| **Programming** | Python, R, SQL                       |  
+| **ML/AI**       | scikit-learn, XGBoost, TensorFlow    |  
+| **Visualization**| Power BI, Tableau, Matplotlib, Plotly|  
+| **Other**       | Git/GitHub, Jupyter, Flask, Docker   |  
+
+</details>  
+
+---
+
+## 🌟 Featured Projects  
+<details>  
+<summary>Click to expand</summary>  
+
+| Project | Description | Key Skills |  
+|---------|-------------|------------|  
+| 📈 **Retail Forecasting** | Automated demand forecasting for decision systems. | R, Time Series, Forecast Automation |  
+| 🧮 **Logistics Optimization** | Cost-minimizing routing model. | Operations Research, Linear Programming |  
+| 📊 **KPI Dashboard** | Interactive monitoring of business metrics. | Python, Power BI, Data Storytelling |  
+| 🤖 **Model Interpretability** | Explainable AI for stakeholder trust. | SHAP, Machine Learning |  
+
+</details>  
+
+---
+
+## 🚀 Getting Started  
+<details>  
+<summary>Click to expand</summary>  
+
+## 📬 Connect With Me
+ 
+🌐 **Portfolio Website:** [Your Portfolio URL] 💼 **LinkedIn:** [Your LinkedIn URL] 🐙 **GitHub:** [Your GitHub URL] ✉️ **Email:** [Your Email Address]
